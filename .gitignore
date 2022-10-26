@@ -1,6 +1,5 @@
 bin/
 obj/
-make/
 lib/
 CMakeFiles/
 /cmake
@@ -9,3 +8,4 @@ CMakeFiles/
 /Makefile
 *.DS_Store
 .qtc_clangd
+*.user
